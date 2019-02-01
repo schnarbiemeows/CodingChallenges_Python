@@ -7,6 +7,7 @@ class BinaryNumAltBits:
         :type n: int
         :rtype: bool
         """
+
         if n == 1:
             return True
         init = int(n%2)
