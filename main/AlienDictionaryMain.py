@@ -1,5 +1,6 @@
 from challenges.AlienDictionary import *
 
+
 if __name__ == "__main__":
     sol = AlienDitionary()
     words = ["ubg","kwh"]

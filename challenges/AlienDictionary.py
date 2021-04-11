@@ -1,4 +1,7 @@
 
+"""
+alien dictionary
+"""
 class AlienDitionary:
     def isAlienSorted(self, words, order):
         """
